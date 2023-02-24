@@ -20,8 +20,19 @@
         "dwnld360" : "https://www.mediafire.com/",
         "dwnld1080" : "https://www.youtube.com/"
         
-    }
+    },
     
+    
+     {
+        "Name" : "John Wick: Chapter 3-Parabellum (2019)",
+        "Description" : "John Wick is on the run after killing a member of the international assassins' guild, and with a $14 million price tag on his head, he is the target of hit men and women everywhere.",
+        "PostUrl" : "https://dl.dropboxusercontent.com//s/dx6165dkjfahhqr/image.jpg?dl=0",
+        "Rating" : "7.4/10",
+        "TrailerUrl" : "https://www.youtube.com/watch?v=pU8-7BX9uxs",
+        "dwnld360" : "https://www.mediafire.com/",
+        "dwnld1080" : "https://www.youtube.com/"
+        
+    }
     
 ]
   
