@@ -1,7 +1,7 @@
 [
     
     {
-        "Name" : "Avvatarrr The Way Of Wataer (2023)",
+        "Name" : "Avatar The Way Of Wataer (2023)",
         "Description" : "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must                            work with Neytiri and the army of the Na'vi race to protect their home.",
         "PostUrl" : "https://drive.google.com/uc?export=download&id=1MBfi4b1Rl7cqKThNowLoXCiCZt4zcHxI",
         "Rating" : "8.3/10",
