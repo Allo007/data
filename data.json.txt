@@ -6,8 +6,8 @@
         "PostUrl" : "https://drive.google.com/uc?export=download&id=1MBfi4b1Rl7cqKThNowLoXCiCZt4zcHxI",
         "Rating" : "8.3/10",
         "TrailerUrl" : "https://youtu.be/o5F8MOz_IDw",
-        "dwnld360" : "",
-        "dwnld1080" : ""
+        "dwnld360" : "https://play.google.com/store/games?gl=US",
+        "dwnld1080" : "https://appstorespy.com/?store=play"
         
     },
     
