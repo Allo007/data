@@ -1,0 +1,28 @@
+[
+    
+    {
+        "Name" : "Avatar The Way Of Wataer (2023)",
+        "Description" : "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must                            work with Neytiri and the army of the Na'vi race to protect their home.",
+        "PostUrl" : "https://drive.google.com/uc?export=download&id=1MBfi4b1Rl7cqKThNowLoXCiCZt4zcHxI",
+        "Rating" : "8.3/10",
+        "TrailerUrl" : "https://youtu.be/o5F8MOz_IDw"
+        
+    },
+    
+    {
+        "Name" : "Alita Battle Angel (2019)",
+        "Description" : "A deactivated cyborg's revived, but can't remember anything of her past and goes on a quest to find out who she is.",
+        "PostUrl" : "https://drive.google.com/uc?export=download&id=16HJrnlNAvStxTUIYhNb0fL0i8X4HZEgg",
+        "Rating" : "7.3/10",
+        "TrailerUrl" : "https://youtu.be/U3D2vmWD88w"
+        
+    }
+]
+  
+
+ 
+
+
+
+
+
